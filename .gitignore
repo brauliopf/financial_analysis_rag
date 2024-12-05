@@ -1,0 +1,4 @@
+.venv
+.env
+company_tickers.json
+*.txt
