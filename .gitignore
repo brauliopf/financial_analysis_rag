@@ -2,3 +2,4 @@
 .env
 company_tickers.json
 *.txt
+headstarter*
