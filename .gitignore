@@ -1,5 +1,8 @@
 .venv
 .env
+
+headstarter-*
 company_tickers.json
-*.txt
-headstarter*
+successful_tickers_backup.txt
+unsuccessful_tickers.txt
+successful_tickers.txt
