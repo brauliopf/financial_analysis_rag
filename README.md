@@ -1,4 +1,6 @@
-The dataset you provided contains a comprehensive set of attributes related to a company's financial and operational data. Here's a brief explanation of some key attributes, including the "averageDailyVolume10Day":
+Reference: https://ranaroussi.github.io/yfinance/index.html
+
+Brief explanation of some key attributes in the `Ticket.info` object:
 
 - **address, city, state, zip, country, phone, website**: These fields provide the contact and location details of the company.
 - **industry, sector**: These fields categorize the company within a specific industry and sector.
